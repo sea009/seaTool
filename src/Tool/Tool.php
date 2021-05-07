@@ -10,6 +10,7 @@ class Tool
 
     public function test(){
         echo 'test';
+        echo 'test api';
     }
 
     public static function imgToUrl($img, $isHttps = false)
