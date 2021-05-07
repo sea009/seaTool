@@ -1,0 +1,21 @@
+{
+    "name": "sea009/sea-tool",
+    "description": "many tool for myself",
+    "type": "library",
+    "require": {
+        "php": ">=7.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sea009",
+            "email": "dontworrysea@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "\\Tool\\": "src/Tool"
+        }
+    }
+}
