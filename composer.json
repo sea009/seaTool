@@ -1,6 +1,7 @@
 {
     "name": "sea009/sea-tool",
     "description": "many tool for myself",
+    "version":"1.0",
     "type": "library",
     "require": {
         "php": ">=7.0"
