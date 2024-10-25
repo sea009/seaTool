@@ -12,11 +12,5 @@
         }
       }
     }
-  },
-  "repositories": [
-    {
-      "type": "composer",
-      "url": "https://github.com/sea009/seaTool/blob/master/packages.json"
-    }
-  ]
+  }
 }
