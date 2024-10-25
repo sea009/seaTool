@@ -1,0 +1,22 @@
+{
+  "packages": {
+    "vendor/sea009/sea-tool": {
+      "1.0.0": {
+        "name": "vendor/sea009/sea-tool",
+        "version": "1.0.0",
+        "dist": {
+          "type": "zip",
+          "url": "https://codeload.github.com/sea009/seaTool/zip/refs/tags/v1.0",
+          "reference": "1.0.0",
+          "shasum": ""
+        }
+      }
+    }
+  },
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://github.com/sea009/seaTool/blob/master/packages.json"
+    }
+  ]
+}
